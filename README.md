@@ -1,6 +1,6 @@
 # time.claps
 
-A simple, lightweight web app display a synchronized countdown to anyone connected. Created to help coordinate certain activities with friends, such as watching online videos, syncing local audio recordings, or anything else really. 
+A simple, lightweight web app used to display a synchronized countdown to anyone connected. Created to help coordinate certain activities with friends, such as watching online videos, syncing local audio recordings, or anything else really. 
 
 Name and quotes used are from my own personal experience using [time.is](https://time.is/) to coordinate with friends.
 
