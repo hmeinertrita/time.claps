@@ -5,7 +5,7 @@ const darkTheme = {
     colorSurface: '#071e3d',
     colorSurfaceAccent: '#1f4287',
     colorContrastLess: '#278ea5',
-    colorContrast: '#21e6c1',
+    colorContrast: '#BDD4E7',
 }
 
 const lightTheme = {
