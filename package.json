@@ -10,9 +10,13 @@
   "dependencies": {
     "express": "^4.17.1",
     "socket.io": "^2.3.0",
+    "timesync": "^1.0.5",
+    "twemoji": "^13.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "react-jss": "^10.4.0",
+    "fontsource-montserrat": "^3.0.9"
   },
   "engines": {
     "node": "12.x"
@@ -27,5 +31,17 @@
     "timesync",
     "socketio",
     "express"
-  ]
+  ],
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
 }
