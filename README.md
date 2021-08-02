@@ -7,4 +7,4 @@ Name and quotes used are from my own personal experience using [time.is](https:/
 
 ## Technologies
 
-React was used to build the front end. THe syncronizing is powered by [Socket.IO](https://socket.io/) and [timesync](https://github.com/enmasseio/timesync#readme) running on an [express](https://expressjs.com/) server.
+[React](https://reactjs.org/) was used to build the front end. Syncronizing is powered by [Socket.IO](https://socket.io/) and [timesync](https://github.com/enmasseio/timesync#readme) running on an [express](https://expressjs.com/) server.
